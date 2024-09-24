@@ -24,7 +24,6 @@ In this document, we explain week by week the planned exercises in Jupyter Noteb
 - lab01 Feasibility
 
 ## Week 3: linear constraints
-- Degeneracy --> lab03
 - Reduced costs --> lab05
 - Redundant constraints --> lab07 
 
