@@ -1,3 +1,5 @@
+Complete all exercises listed bellow:
+
 ## Week 4: simplex
 - Pivoting  --> lab05
 - Simplex algorithm  --> lab03
