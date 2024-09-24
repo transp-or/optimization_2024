@@ -42,15 +42,20 @@ In this document, we explain week by week the planned exercises in Jupyter Noteb
 - lab06: simplex tableau
 
 ## Week 5: simplex & duality
+### simplex
 - Initial tableau --> lab07
+### duality
 - Duality and feasibility --> lab01
 - Dual problem --> lab02
-
+- 
 ## Week 6: duality & networks
+### duality
 - Complementarity slackness  --> lab03
+### Networks
 - Network properties --> lab01
-- Trees --> lab03
 - Flows and divergences --> lab02
+- Trees --> lab03
+
 
 ## Week 8: networks & transhipment
 - Formulation and standard form --> lab03
@@ -72,19 +77,20 @@ In this document, we explain week by week the planned exercises in Jupyter Noteb
 - PERT --> lab05
 
 ## Week 12: discrete optimization
+- Branch and bound --> lab01
 - Modeling --> lab02
 - Set covering --> lob03
 - Traveling salesman problem --> lab04
-- Branch and bound --> lab01
+
 
 ## Week 13: discrete optimization
-- Relaxation --> lab05
 - B & Bound integer problem --> lab01
+- Relaxation --> lab05
 
 ## Week 14: nonlinear optimization
-- Newton local --> lab03
-- Preconditioning --> lab04
 - First Wolfe  --> lab01
 - Second Wolfe --> lab02
+- Newton local --> lab03
+- Preconditioning --> lab04
 - Line search --> lab06
 - Multiple choice questions --> lab07
