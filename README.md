@@ -1,6 +1,10 @@
 # optimization_2024
 Material for the EPFL course MATH-265 "Introduction to optimization and operations research"
 
+Exercises for each week should be done in the order that you prefer based on the lectures that you have followed.
+
+## Note: If lectures have not covered the subject of the exercise, you can skip them and do them the following week.
+
 # Exercises and laboratories
 
 In this document, we explain week by week the planned exercises in Jupyter Notebook.
