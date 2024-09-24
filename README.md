@@ -56,7 +56,7 @@ In this document, we explain week by week the planned exercises in Jupyter Noteb
 - Flows and divergences --> lab02
 - Trees --> lab03
 
-## Week 7:
+## Week 7: Mock exam
 -
 -
 
