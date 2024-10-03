@@ -6,7 +6,6 @@ Complete all exercises listed bellow. exercises marked with a * are supplementar
 - Simplex tableau (describe the elements)  --> lab04
 - Multiple choice questions --> lab08
 - ### New labs:
-- 
 - *lab01: enumeration
 - *lab02: graphical solution
 - *lab06: simplex tableau
