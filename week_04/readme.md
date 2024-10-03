@@ -1,4 +1,4 @@
-Complete all exercises listed bellow:
+Complete all exercises listed bellow. exercises marked with a * are supplementary optional exercises:
 
 ## Week 4: simplex
 - Pivoting  --> lab05
@@ -6,6 +6,7 @@ Complete all exercises listed bellow:
 - Simplex tableau (describe the elements)  --> lab04
 - Multiple choice questions --> lab08
 - ### New labs:
-- lab01: enumeration
-- lab02: graphical solution
-- lab06: simplex tableau
+- 
+- *lab01: enumeration
+- *lab02: graphical solution
+- *lab06: simplex tableau
